@@ -1,3 +1,5 @@
+![CI Status](https://github.com/nih4me/ci-calc-example-epo/actions/workflows/python-app.yml/badge.svg)
+
 # ci-calc-example-epo
 
 Cours Integration Continue. 
