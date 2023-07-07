@@ -23,6 +23,11 @@ def test_multiplication():
     resultat = multiplication(num1, num2)
     assert resultat == 30, f"Erreur lors de la multiplication : {num1} * {num2} != 30"
 
+    num1 = 10
+    num2 = 5
+    resultat = multiplication(num1, num2)
+    assert resultat == 50, f"Erreur lors de la multiplication : {num1} * {num2} != 50"
+
 def test_division():
     # Test de division
     num1 = 15
